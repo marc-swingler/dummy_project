@@ -1,0 +1,8 @@
+[submodule "my_submodules_dir/dummy_project_2"]
+    path = my_submodules_dir/dummy_project_2
+    url = ../dummy_project_2
+    pushurl = ../dummy_project_2
+[submodule "my_submodules_dir/dummy_project_3"]
+    path = my_submodules_dir/dummy_project_3
+    url = ../dummy_project_3
+    pushurl = ../dummy_project_3
